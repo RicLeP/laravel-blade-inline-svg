@@ -3,5 +3,5 @@
 interface SvgInliner
 {
 
-    public function render( $svgPath, $attributes = [] );
+	public function render($svgPath, $attributes = []);
 }

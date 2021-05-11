@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bca90f61-7aa0-45da-9927-e6c7144c00bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BladeInlineSvgServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BladeInlineSvgServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contracts/SvgInliner.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contracts/SvgInliner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Facades/SvgInliner.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facades/SvgInliner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implementations/SvgInliner.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/SvgInliner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
