@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'svg-path' => base_path('resources/svg')
+    'svg-path' => base_path('public/img')
 ];
