@@ -21,5 +21,15 @@
         "classmap": [
             "tests/TestCase.php"
         ]
-    }
+    },
+	"extra": {
+		"laravel": {
+			"providers": [
+				"Phaza\\InlineSvg\\BladeInlineSvgServiceProvider"
+			],
+			"aliases": {
+				"Storyblok": " Phaza\\InlineSvg\\Facades\\SvgInliner"
+			}
+		}
+	}
 }
