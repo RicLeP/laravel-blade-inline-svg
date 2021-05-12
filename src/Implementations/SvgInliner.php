@@ -17,7 +17,7 @@ class SvgInliner implements SvgInlinerContract
 			$xml->addAttribute($attr, $value);
 		}
 
-		return (string)$xml->asXML();
+		return (string) str_replace('<?xml version="1.0"?>', '', $xml->asXML());
 	}
 
 	protected function getXmlObject($svgPath)
